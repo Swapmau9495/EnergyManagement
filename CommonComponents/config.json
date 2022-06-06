@@ -1,0 +1,6 @@
+{
+	"nginx": {
+		"nginx_host": "https://dev2.4pointx.com",
+		"nginx_port": "443"
+	}
+}

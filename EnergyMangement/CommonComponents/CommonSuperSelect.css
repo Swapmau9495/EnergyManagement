@@ -1,0 +1,13 @@
+.euiFormControlLayout__prepend + .euiSuperSelect {
+  flex: 1 100%;
+  min-width: 200px;
+}
+
+.commonSuperSelect__div{
+  border-radius: 6px !important;
+  /* background-color: #e9edf3 !important; */
+}
+.commonSuperSelect__div > .commonSuperSelect__prepend{
+  border-radius: 5px 0 0 5px !important;
+  /* background-color: #e9edf3 !important; */
+}
